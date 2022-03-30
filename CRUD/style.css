@@ -1,0 +1,19 @@
+.container h2{
+    font-size: 40px;
+}
+.addUser{
+    font-size: 25px;
+
+}
+.e-btn{
+    width: 100px;
+    margin-top: 25px;
+}
+.input{
+    width: 100%;
+    outline: none;
+    border: 1px solid rgb(92, 102, 243);
+    height: 50px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
